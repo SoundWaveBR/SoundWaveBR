@@ -9,6 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundWaveBR&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundWaveBR&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que estou apredendo
 
