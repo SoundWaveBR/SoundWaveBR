@@ -5,12 +5,9 @@
 
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/soundwavebr)
-[![Twitch](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mareson_sound/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mareson_sound/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundWaveBR&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundWaveBR&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundWaveBR&show_icons=true&theme=dracula) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoundWaveBR&layout=compact&langs_count=7&theme=github_dark"/>
 
 ## Tecnologias que estou apredendo
 
